@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvis
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine Learning & Deep Learning.
-- 📫 Reach me: avotheyo23@gmail.com
+
 
 <!---
 avocadopelvis/avocadopelvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
