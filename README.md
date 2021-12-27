@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Elvis
+- 👋 Hi, I’m elvis
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Machine Learning & Deep Learning.
+- 🌱 I’m currently learning Natural Language Processing & Deep Learning.
 
 
 <!---
