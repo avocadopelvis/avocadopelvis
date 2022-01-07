@@ -1,6 +1,9 @@
-- 👋 Hi, I’m elvis
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Natural Language Processing & Deep Learning.
+Hi, I’m elvis. 👋 
+I’m a third year Information Technology undergraduate with a deep interest in Data Science.
+I’m currently learning Natural Language Processing & Deep Learning to further my skills in this field.
+Other than Data Science, I have some experience in Web Development working with tools such as HTML, CSS, JavaScript & Flask.
+
+
 
 
 <!---
