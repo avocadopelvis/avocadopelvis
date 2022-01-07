@@ -1,7 +1,7 @@
 - Hi, I’m elvis. 👋 
 - I’m a third year Information Technology undergraduate with an interest in Data Science. 
 - I’m currently learning Natural Language Processing & Deep Learning. 
-- Other than Data Science, I have some experience in Web Development working with tools such as HTML, CSS, JavaScript & Flask.
+- Other than Data Science, I have some experience in Web Development, working with tools such as HTML, CSS, JavaScript & Flask.
 - How to reach me: avotheyo23@gmail.com
 
 
