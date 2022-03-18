@@ -1,9 +1,9 @@
 # Hi, I’m Elvis. 👋 
-- I’m a third year Information Technology undergraduate with a focus on Data Science. 
-- I’m currently learning Natural Language Processing & Deep Learning. 
+- I am a third year Information Technology undergraduate with a focus on Data Science. 
+- I am currently learning Natural Language Processing & Deep Learning. 
 - Apart from Data Science, I have experience in Web Development, working with tools such as HTML, CSS, JavaScript & Flask.
 - During my leisure time, I enjoy reading books, learning new things & playing basketball.
-- Currently, I'm building Pandora, a Deep Learning chatbot that can act as a therapist.
+- Currently, I'm building Pandora, a Deep Learning chatbot that can simulate a therapist.
 - How to reach me: elvistheyo@gmail.com
 
 
