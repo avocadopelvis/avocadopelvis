@@ -3,7 +3,7 @@
 - I am currently learning Natural Language Processing & Deep Learning. 
 - Apart from Data Science, I have decent experience in Web Development, working with tools such as HTML, CSS, JavaScript & Flask.
 - During my leisure time, I enjoy reading books, learning new things & playing basketball.
-- Currently, I am working on Pandora, a Deep Learning chatbot that aims to simulate a psychotherapist.
+- Currently, I am working on Diagnosis of Mental Load from ECG Signals.
 - How to reach me: elvistheyo@gmail.com
 
 
