@@ -1,9 +1,9 @@
 # Hi, I’m Elvis. 👋 
 - I am a third year Information Technology undergraduate  with a keen interest in data-driven problem solving.
 - I am currently learning Natural Language Processing & Deep Learning. 
-- Apart from Data Science, I have decent experience in Web Development, working with tools such as HTML, CSS, JavaScript & Flask.
+- Apart from working with data, I have decent experience in Web Development as well.
 - During my leisure time, I enjoy reading books, learning new things & playing basketball.
-- Currently, I am working on Diagnosis of Mental Load from ECG Signals.
+- Currently, I am working on diagnosis of mental load from electrocardiogram (ECG) signals.
 - How to reach me: elvistheyo@gmail.com
 
 
