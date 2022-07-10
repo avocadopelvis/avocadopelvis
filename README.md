@@ -3,7 +3,7 @@
 - I am currently learning Natural Language Processing & Deep Learning. 
 - Aside from working with data, I have decent experience in Web Development as well.
 - During my leisure time, I enjoy reading books, learning new things & playing basketball.
-- Currently, I am working on the diagnosis of mental workload using electrocardiogram (ECG) signals & Deep Learning.
+- Currently, I am working on Federated Learning for Multi-Institutional Medical Image Segmentation.
 - How to reach me: elvistheyo@gmail.com
 
 
