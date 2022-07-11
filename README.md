@@ -1,4 +1,4 @@
-# Hi, I’m Elvis. 👋 
+# Hello there, I’m Elvis. 👋 
 - I am a third-year Information Technology undergraduate  with a keen interest in data-driven problem solving.
 - I am currently learning Natural Language Processing & Deep Learning. 
 - Aside from working with data, I have decent experience in Web Development as well.
