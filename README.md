@@ -1,5 +1,5 @@
 # Hello there, I’m Elvis. 👋 
-- I am a pre-final year Information Technology undergraduate with a keen interest in data-driven problem solving.
+- I am a pre-final year undergraduate with a keen interest in data-driven problem solving.
 - I am currently learning Natural Language Processing & Deep Learning. 
 - Aside from working with data, I have decent experience in Web Development as well.
 - During my leisure time, I enjoy reading books, learning new things & playing basketball.
