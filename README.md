@@ -4,6 +4,7 @@
 - My primary area of interest lies in Machine Learning & Natural Language Processing
 - During my leisure time, I enjoy reading books, watching movies, learning new things & playing basketball.
 - How to reach me: elvistheyo@gmail.com
+- [Resume](https://drive.google.com/file/d/1EAaQ6tPSzJ21dLD5DEdvXnwje_zNkfDS/view?usp=sharing)
 <!-- - Currently, I am working on Federated Learning for Multi-Institutional Medical Image Segmentation. -->
 
 
