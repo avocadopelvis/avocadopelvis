@@ -1,4 +1,4 @@
-# Hello there, I’m Elvis. 👋 
+# Hi there, I’m Elvis. 👋 
 - I am an analyst with a keen interest in leveraging data to solve complex problems.
 - I am currently working as a Flight Operations Analyst at Airbus.
 - My primary area of interest lies in Machine Learning & Natural Language Processing
