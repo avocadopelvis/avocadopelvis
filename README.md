@@ -1,8 +1,8 @@
 # Hello there, I’m Elvis. 👋 
-- I am a final year student with a keen interest in data-driven problem solving.
-- I am currently working on my Master Thesis which focuses on Low-Resource Neural Machine Translation. 
+- I am an analyst with a keen interest in leveraging data to solve complex problems.
+- I am currently working as a Flight Operations Analyst at Airbus.
 - My primary area of interest lies in Machine Learning & Natural Language Processing
-- During my leisure time, I enjoy reading books, watching movies, learning new things & playing basketball.
+- During my leisure time, I enjoy watching movies, reading books, and playing basketball & badminton.
 - How to reach me: elvistheyo@gmail.com
 - [Resume](https://drive.google.com/file/d/1EAaQ6tPSzJ21dLD5DEdvXnwje_zNkfDS/view?usp=sharing)
 <!-- - Currently, I am working on Federated Learning for Multi-Institutional Medical Image Segmentation. -->
